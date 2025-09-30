@@ -1,0 +1,101 @@
+/* Color Family Themes */
+:root[data-theme="pink"] {
+  --primary: 340 82% 52%;
+  --primary-foreground: 210 40% 98%;
+  --ring: 340 82% 52%;
+}
+
+:root[data-theme="indigo"] {
+  --primary: 244 76% 57%;
+  --primary-foreground: 210 40% 98%;
+  --ring: 244 76% 57%;
+}
+
+:root[data-theme="emerald"] {
+  --primary: 160 84% 39%;
+  --primary-foreground: 210 40% 98%;
+  --ring: 160 84% 39%;
+}
+
+:root[data-theme="amber"] {
+  --primary: 38 92% 50%;
+  --primary-foreground: 222.2 84% 4.9%;
+  --ring: 38 92% 50%;
+}
+
+:root[data-theme="violet"] {
+  --primary: 262 83% 58%;
+  --primary-foreground: 210 40% 98%;
+  --ring: 262 83% 58%;
+}
+
+:root[data-theme="ocean"] {
+  --primary: 199 89% 48%;
+  --primary-foreground: 210 40% 98%;
+  --ring: 199 89% 48%;
+}
+
+:root[data-theme="ruby"] {
+  --primary: 0 84% 60%;
+  --primary-foreground: 210 40% 98%;
+  --ring: 0 84% 60%;
+}
+
+:root[data-theme="slate"] {
+  --primary: 215 25% 27%;
+  --primary-foreground: 210 40% 98%;
+  --ring: 215 25% 27%;
+}
+
+/* Style Pack Themes */
+:root[data-theme="conference"] {
+  --primary: 244 76% 57%;
+  --primary-foreground: 210 40% 98%;
+  --ring: 244 76% 57%;
+  --accent: 244 76% 57%;
+  --accent-foreground: 210 40% 98%;
+}
+
+:root[data-theme="party"] {
+  --primary: 340 82% 52%;
+  --primary-foreground: 210 40% 98%;
+  --ring: 340 82% 52%;
+  --accent: 262 83% 58%;
+  --accent-foreground: 210 40% 98%;
+}
+
+:root[data-theme="corporate"] {
+  --primary: 215 25% 27%;
+  --primary-foreground: 210 40% 98%;
+  --ring: 215 25% 27%;
+  --accent: 199 89% 48%;
+  --accent-foreground: 210 40% 98%;
+}
+
+:root[data-theme="minimal"] {
+  --primary: 0 0% 9%;
+  --primary-foreground: 0 0% 98%;
+  --ring: 0 0% 9%;
+  --accent: 0 0% 96%;
+  --accent-foreground: 0 0% 9%;
+}
+
+/* Dark Mode Variants */
+:root[data-mode="dark"] {
+  --background: 222.2 84% 4.9%;
+  --foreground: 210 40% 98%;
+  --card: 222.2 84% 4.9%;
+  --card-foreground: 210 40% 98%;
+  --popover: 222.2 84% 4.9%;
+  --popover-foreground: 210 40% 98%;
+  --secondary: 217.2 32.6% 17.5%;
+  --secondary-foreground: 210 40% 98%;
+  --muted: 217.2 32.6% 17.5%;
+  --muted-foreground: 215 20.2% 65.1%;
+  --accent: 217.2 32.6% 17.5%;
+  --accent-foreground: 210 40% 98%;
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 210 40% 98%;
+  --border: 217.2 32.6% 17.5%;
+  --input: 217.2 32.6% 17.5%;
+}

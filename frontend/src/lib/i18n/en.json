@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "home": "Home",
+    "events": "Events",
+    "wedding": "Wedding",
+    "speakers": "Speakers",
+    "schedule": "Schedule",
+    "tickets": "Tickets",
+    "gallery": "Gallery",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact",
+    "admin": "Admin"
+  },
+  "hero": {
+    "title": "Start with Uservice",
+    "subtitle": "The ultimate multi-theme event and service platform",
+    "cta": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "events": {
+    "title": "Upcoming Events",
+    "subtitle": "Discover amazing events happening around you",
+    "filter": {
+      "all": "All Events",
+      "conference": "Conference",
+      "party": "Party",
+      "corporate": "Corporate",
+      "workshop": "Workshop"
+    },
+    "search": "Search events...",
+    "date": "Date",
+    "location": "Location",
+    "price": "Price",
+    "bookNow": "Book Now",
+    "viewDetails": "View Details"
+  },
+  "speakers": {
+    "title": "Featured Speakers",
+    "subtitle": "Meet the experts and thought leaders",
+    "viewProfile": "View Profile",
+    "expertise": "Expertise",
+    "company": "Company"
+  },
+  "schedule": {
+    "title": "Event Schedule",
+    "subtitle": "Plan your day with our detailed schedule",
+    "track": "Track",
+    "room": "Room",
+    "time": "Time",
+    "duration": "Duration"
+  },
+  "tickets": {
+    "title": "Get Your Tickets",
+    "subtitle": "Choose the perfect ticket for your needs",
+    "selectQuantity": "Select Quantity",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "summary": "Order Summary"
+  },
+  "gallery": {
+    "title": "Event Gallery",
+    "subtitle": "Relive the moments from our past events"
+  },
+  "blog": {
+    "title": "Latest News",
+    "subtitle": "Stay updated with our latest articles",
+    "readMore": "Read More",
+    "published": "Published",
+    "author": "Author",
+    "category": "Category",
+    "tags": "Tags",
+    "share": "Share"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We'd love to hear from you",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "Failed to send message. Please try again."
+  },
+  "footer": {
+    "newsletter": {
+      "title": "Stay Updated",
+      "subtitle": "Subscribe to our newsletter for the latest updates",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe"
+    },
+    "links": {
+      "about": "About Us",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "support": "Support"
+    }
+  },
+  "wedding": {
+    "title": "Bangladeshi Wedding Services",
+    "subtitle": "Create your dream wedding with traditional Bangladeshi culture and modern elegance",
+    "planWedding": "Plan My Wedding",
+    "viewPackages": "View Packages",
+    "tabs": {
+      "overview": "Overview",
+      "packages": "Packages",
+      "venues": "Venues",
+      "cultural": "Cultural Events",
+      "gallery": "Gallery"
+    },
+    "features": {
+      "romantic": "Romantic & Elegant",
+      "romanticDesc": "Create unforgettable moments with our romantic wedding planning services",
+      "memories": "Lifetime Memories",
+      "memoriesDesc": "Professional photography and videography to capture every special moment",
+      "entertainment": "Cultural Entertainment",
+      "entertainmentDesc": "Traditional Bangladeshi music, dance, and cultural performances"
+    },
+    "mostPopular": "Most Popular",
+    "selectPackage": "Select Package",
+    "capacity": "Capacity",
+    "price": "Price",
+    "rating": "Rating",
+    "cta": {
+      "title": "Ready to Start Your Wedding Journey?",
+      "subtitle": "Let us help you create the perfect Bangladeshi wedding celebration",
+      "contact": "Contact Us",
+      "consultation": "Free Consultation"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "notFound": "Page not found",
+    "comingSoon": "Coming Soon",
+    "backToHome": "Back to Home",
+    "viewAll": "View All",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add"
+  }
+}
